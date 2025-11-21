@@ -3,7 +3,7 @@ HSerwer
 -----------------------------
 OS: MacOS / Windows 11 / Linux Mint
 Editor: VS Code / IntelliJ
-Focus: Machine Learning And AI
+Focus: Machine Learning, AI, Web Technologies
 
 Programming Languages And Technologies
 - Java, TypeScript/JavaScript, Python, GDScript, C/C++
