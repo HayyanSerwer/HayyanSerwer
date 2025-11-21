@@ -17,5 +17,19 @@ Tools
 Currently Learning
 - Deep Learning, Convolutional Neural Networks, Agentic AI, OS And Networks
 
+
+Projects I'm Working On
+-----------------------------
+
+- Portfolio Website Using ThreeJS
+- Video Recommender (Collaborative filtering algorithm) 
+- Youtuber Comment Scraper with a React frontend
+- Autodiff implementation from scratch
+
 -----------------------------
 ```
+
+
+
+
+
