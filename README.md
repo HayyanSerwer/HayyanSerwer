@@ -17,6 +17,12 @@ Tools
 Currently Learning
 - Deep Learning, Convolutional Neural Networks, Agentic AI, OS And Networks
 
+Employment Status:
+-----------------------------
+Current Role: Programming Research Assistant
+Company: TH Aschaffenburg
+Department: Behavioural Accounting and Finance Lab
+Tasks: Projects include sentiment analysis on text data, web scraping for data collection, and visualizing insights with Python libraries.
 
 Projects I'm Working On
 -----------------------------
