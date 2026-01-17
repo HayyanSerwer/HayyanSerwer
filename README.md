@@ -24,7 +24,7 @@ Company: TH Aschaffenburg
 Department: Behavioural Accounting and Finance Lab
 Tasks: Projects include sentiment analysis on text data, web scraping for data collection, and visualizing insights with Python libraries.
 
-Projects I'm Working On
+Personal Projects I'm Working On
 -----------------------------
 
 - Portfolio Website Using ThreeJS
