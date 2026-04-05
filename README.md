@@ -15,7 +15,7 @@ Tools
 - TensorFlow, PyTorch, Selenium, BeautifulSoup
 
 Currently Learning
-- Deep Learning, Convolutional Neural Networks, Agentic AI, OS And Networks
+- Deep Learning Architectures (GANs, Transformers RNNs, Diffusion Models), RAG, MCPs, Multimodal agentic AI
 
 Employment Status:
 -----------------------------
@@ -27,7 +27,7 @@ Tasks: Projects include sentiment analysis on text data, web scraping for data c
 Personal Projects I'm Working On
 -----------------------------
 
-- Portfolio Website Using ThreeJS
+- Object Detection Web App with RAG Functionality
 - Video Recommender (Collaborative filtering algorithm) 
 - Autodiff implementation from scratch
 
