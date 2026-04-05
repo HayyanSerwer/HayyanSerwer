@@ -9,7 +9,7 @@ Programming Languages And Technologies
 - Java, TypeScript/JavaScript, Python, GDScript, C/C++
 
 Frameworks and Web Technologies:
-- HTML, CSS, Tailwind CSS, FastAPI, React, Node.js, Express
+- HTML, CSS, Tailwind CSS, FastAPI, React, Node.js, Express, Bun
 
 Tools
 - TensorFlow, PyTorch, Selenium, BeautifulSoup
